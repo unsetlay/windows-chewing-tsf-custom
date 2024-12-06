@@ -2,3 +2,36 @@
 /dist
 /.cache
 /target
+
+# IDE and editor files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cursor specific files
+.cursorrules
+.cursorignore
+
+# Build outputs
+out/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Temporary files
+*.log
+*.tmp
+*~
+
+# Windows specific
+[Tt]humbs.db
+*.DS_Store
